@@ -1,4 +1,4 @@
-# Import turtle package 
+# Import turtle package with trial
 import turtle 
 
 # Creating a turtle object(pen) 
